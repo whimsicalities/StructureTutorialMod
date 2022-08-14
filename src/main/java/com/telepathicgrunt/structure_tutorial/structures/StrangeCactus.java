@@ -92,6 +92,6 @@ public class StrangeCactus extends Structure {
 
     @Override
     public StructureType<?> getType() {
-        return STStructures.SKY_STRUCTURES; // Helps the game know how to turn this structure back to json to save to chunks
+        return STStructures.STRANGE_CACTUS; // Helps the game know how to turn this structure back to json to save to chunks
     }
 }
