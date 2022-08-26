@@ -1,3 +1,6 @@
+note from whimsicalities: just forking this to experiment with worldgen a bit :)
+
+
 # Structure Tutorial Mod (Fabric)
 **How to register and generate jigsaw structures in 1.19.0+ Minecraft Fabric using nbt files! In fact, you can actually make structures using only json files in 1.18.2+ MC!**
 
