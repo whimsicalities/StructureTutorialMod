@@ -19,7 +19,7 @@
         // Note, this will automatically check into the 'structures' folder for the nbt file.
         // The final path would look like 'resources/data/structure_tutorial/structures/run_down_house_left_side.nbt'
         "location": "structure_tutorial:weird_cactus",
-        "processors": "structure_tutorial:do_nothing",
+        "processors": "structure_tutorial:randomize_cactus_texture",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
